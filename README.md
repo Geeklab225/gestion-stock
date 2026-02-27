@@ -2,7 +2,8 @@
 
 Application de gestion de stock professionnelle avec separation stricte Frontend/API, structure orientee Clean Architecture, migrations SQL versionnees et interface moderne en francais.
 
-![alt text](image-1.png)
+<img width="1886" height="911" alt="image" src="https://github.com/user-attachments/assets/743daa22-8b7c-4ee5-938b-0ab2eb498c35" />
+
 
 ## Identite projet
 - Nom produit: `LM-Code Gestion Stock`
